@@ -1,2 +1,5 @@
 # Python-learning-exercises
-Series of exercises to learn Python.  The list of exercises can be found in the readme file.
+Series of exercises to learn Python.
+
+# List of exercises
+-Password manager
